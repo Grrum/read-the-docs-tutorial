@@ -20,3 +20,8 @@ Contents
 
    usage
    api
+
+Documentation
+-------------
+
+Lumache has its `documentation <https://grrum-read-the-docs-tutorial.readthedocs.io/en/latest/>` hosted on Read the Docs.
